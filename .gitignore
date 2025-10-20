@@ -1,0 +1,15 @@
+/local/
+
+# Build outputs
+**/bin/
+**/obj/
+
+# User settings 
+.vs/
+*.user
+*.suo
+
+# Dependencies
+**/packages/
+
+/doc/.$Architecture.drawio.bkp
